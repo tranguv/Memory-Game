@@ -33,16 +33,16 @@
 <h3>Pair match checking</h3>
  <p>Cards are an arraylist of buttons with onClick function below each button. Each card will have a variable that check if they're faced up or down; and a variable if they are matched or not. If they are already matched, just keep them face up, otherwise compare their button id, if they're not matched, set the value of isMatched to false and make them face down</p>
 
+<h3>Found all the matches</h3>
+<p>When players have found all the matched, a dialogue will appear and congrats them of their achievement and will direct them to the main home page, so they can choose the other modes to continue palying</p>
+
 <h3>Moves and stores moves</h3>
 <p>When a player flips a card, the move counter is increased by 1 and it will continue to count till the end of the game. The best moves will be keep in the record using SharedPreferences and showing in the next round of the same mode. So, each mode will have different best moves. The best records will still be stored after users closed the app.</p>
 
 
 <h2>GUI</h2>
 <h3>Start Menu</h3>
-<p>The XML contains Start and Rules button</P>
-
-<h3>Found all the matches</h3>
-<p>When players have found all the matched, a dialogue will appear and congrats them of their achievement and will direct them to the main home page, so they can choose the other modes to continue palying</p>
+<p>The XML contains Start and Rules button with onClick function</P>
 
 <h3>Moves and stores moves</h3>
 <p>Player's best move will be displayed along with their number of moves</p>
