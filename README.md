@@ -1,7 +1,7 @@
-<h1>Memory Game<h1>
+<h1>Memory Game</h1>
  <p>A matching game implemented using Android Studio and Java.</p>
 
-<h1>Extra Features<h2>
+<h2>Extra Features</h2>
  <p>
   <ul>
  <li>Start menu with 'Start' and 'Rule' button</li>
@@ -12,7 +12,7 @@
   </ul>
  </p>
 
-<h1>How to Play</h2>
+<h2>How to Play</h2>
  <ul>
   <li> Regard to this website to open the app on terminal: https://pub.towardsai.net/how-to-run-an-android-application-from-command-line-e139eda62867
 </li>    
@@ -23,10 +23,10 @@
   <li>To play again, exit the game and repeast steps 2 through 7.</li>
  </ul>
 
-<h1>Contributor</h3>
+<h2>Contributor</h2>
 <ul><li>Trang Vu - handles GUI and the back-end of the game</li></ul>
 
-<h1>Game Logic</h1>
+<h2>Game Logic</h2>
 <h3>Generate random images to the board</h3>
  <p>Storing a list of images that will be used for the cards. Shuffles the images and choose out the number of images half the size of the numbers of the buttons/boards. For Easy Mode with 12 buttons/cards in a board so I'd choose from the shuffled list of cards 6 of them and then created a new array with 12 buttons and assigned randomly 6 cards on it twice</p>
 
