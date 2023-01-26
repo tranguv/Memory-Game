@@ -1,16 +1,16 @@
 <h1>Memory Game<h1>
- A matching game implemented using Android Studio and Java.
-
- Regard to this website to open the app on terminal
+ <p>A matching game implemented using Android Studio and Java.</p>
 
 <h1>Extra Features<h2>
-<ul>
+ <p>
+  <ul>
  <li>Start menu with 'Start' and 'Rule' button</li>
  <li>Clean user interface</li>
  <li>Go back to homepage option (or exiting the current round</li>
  <li>Option to choose the game's mode: Easy, Medium, Hard</li>
  <li>Open source and object oriented design</li>
-</ul>
+  </ul>
+ </p>
 
 <h1>How to Play</h2>
  <ul>
